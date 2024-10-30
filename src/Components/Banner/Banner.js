@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 
-import './Banner.css';
+import './Banner.css'
 import Arrow from '../../assets/Arrow'
 function Banner() {
   return (
